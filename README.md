@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with
+<!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with
 
 ## Technologies Used
 
@@ -18,4 +18,4 @@ Second, run the development server:
 
 ```bash
 pnpm dev
-```
+``` -->
