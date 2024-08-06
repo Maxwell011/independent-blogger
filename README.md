@@ -5,6 +5,7 @@ This is a blog application integrated with AI prompts to create blogs
 - TailwindCSS
 - Eslint
 - shadui
+- Superbase
 
 ## Getting Started
 
