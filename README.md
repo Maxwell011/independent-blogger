@@ -1,4 +1,4 @@
-This is a blog application integrated with AI prompts
+This is a blog application integrated with AI prompts to create blogs
 
 ## Technologies Used
 
