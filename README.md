@@ -1,4 +1,4 @@
-This is a project bootstrapped with
+This is a blog application
 
 ## Technologies Used
 
