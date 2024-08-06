@@ -1,4 +1,4 @@
-This is a blog application
+This is a blog application integrated with AI prompts
 
 ## Technologies Used
 
