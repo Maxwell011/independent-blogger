@@ -1,4 +1,5 @@
-This is a blog application integrated with AI to create blogs accor
+This is a blog application integrated with AI to create blogs according to you
+prompts
 
 ## Technologies Used
 
