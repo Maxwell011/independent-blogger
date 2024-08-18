@@ -1,4 +1,4 @@
-This is a blog application integrated with AI to create blogs according to you
+<!-- This is a blog application integrated with AI to create blogs according to you
 prompts
 
 ## Technologies Used
@@ -20,4 +20,4 @@ Second, run the development server:
 
 ```bash
 pnpm dev
-```
+``` -->
