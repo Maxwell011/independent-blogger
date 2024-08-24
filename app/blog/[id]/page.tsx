@@ -20,7 +20,7 @@ export default async function Blog({ params }: { params: { id: string } }) {
 
         <section className='prose mt-6 max-w-none'>
           <Image alt='' src={imageUrl} width={1792} height={1024} />
-          <Markdown>{content}</Markdown>
+          {/* <Markdown>{content}</Markdown> */}
         </section>
       </div>
     </section>
