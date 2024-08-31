@@ -76,3 +76,4 @@ export async function createCompletion(prompt: string) {
   revalidatePath('/')
   redirect(`/blog/${blogId}`)
 }
+// 
