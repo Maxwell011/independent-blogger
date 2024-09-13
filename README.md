@@ -1,4 +1,4 @@
-This is a blog application integrated with AI to create blogs according to you
+This is a blog application integrated with AI to create blogs with images according to you
 prompts
 
 ## Technologies Used
