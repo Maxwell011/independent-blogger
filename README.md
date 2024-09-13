@@ -6,6 +6,7 @@ prompts
 - TailwindCSS
 - Eslint
 - shadui
+- Pnpm
 - Superbase
 
 ## Getting Started
