@@ -1,5 +1,5 @@
 This is a blog application integrated with AI to create blogs with images according to you
-prompts that you want 
+prompts that you requested.
 
 ## Technologies Used
 
