@@ -1,11 +1,12 @@
-This is a blog application integrated with AI to create blogs according to you
-prompts
+This is a blog application integrated with AI to create blogs with images according to you
+prompts that you requested.
 
 ## Technologies Used
 
 - TailwindCSS
 - Eslint
 - shadui
+- Pnpm
 - Superbase
 
 ## Getting Started
